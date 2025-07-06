@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-center mt-10">
         Welcome to AutoPrep
       </h1>
-      <h1>Made by Nishant Singh</h1>
+      <h1>Made by Nishant Singh :)</h1>
       <p className="text-center mt-4">
         Your AI-powered assistant for efficient task management.
       </p>
