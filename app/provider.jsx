@@ -1,6 +1,6 @@
 "use client";
-import { UserDetailContext } from "@/context/UserDetailContext";
-import { useUser } from "@clerk/nextjs"; // or wherever your useUser is from
+import { UserDetailContext } from "../context/UserDetailContext";
+import { useUser } from "@clerk/nextjs"; 
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
